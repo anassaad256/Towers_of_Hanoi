@@ -8,3 +8,4 @@ The Tower of Hanoi is a mathematical game or puzzle consisting of three rods and
 3- No disk may be placed on top of a disk that is smaller than it.
 Source: https://en.wikipedia.org/wiki/Tower_of_Hanoi
 
+![Untitled design (13)](https://user-images.githubusercontent.com/43753715/168408643-b456b832-a0a5-4ab2-842a-f49ec851fdaf.png)
